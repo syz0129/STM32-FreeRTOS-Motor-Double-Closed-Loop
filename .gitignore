@@ -1,0 +1,14 @@
+# Keil 编译产物
+MDK-ARM/MotorServo/
+MDK-ARM/*.lst
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+Objects/
+Listings/
+*.o
+*.axf
+*.hex
+*.map
+*.dep
+*.crf
+*.d
